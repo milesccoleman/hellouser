@@ -2,7 +2,7 @@
 ## A super simple Vue app!
 ---
 
-![alt text](https://github.com/milesccoleman/hellouser/master/src/assets/screenshot.png "Screenshot of App")
+![alt text](https://github.com/milesccoleman/hellouser/src/assets/screenshot.png?raw=true "Screenshot of App")
 
 ---
 
@@ -19,8 +19,9 @@ You will also need to install `webpack`. Tutorial here: https://webpack.js.org/g
     `git clone https://github.com/milesccoleman/hellouser.git cd hellouser`
 2. Use `npm` to install `vue`. 
     `npm install vue`
-3. Using `vue` installed you can now use `webpack` to bundle the modules of the app. 
-    `npm install webpack`
+3. Now you can build the app to serve it via `npm`. 
+    `npm run dev`
+4. Open the URL in your browser. 
 
 
 
