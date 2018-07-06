@@ -6,7 +6,7 @@
 
 ---
 
-Live version of app: http://milesccoleman.com/hellouser/ 
+Live version of app: http://milesccoleman.com/hellouser 
 
 ---
 In order to run the app, you'll need to install `node` and `npm`. A useful tutorial exists here: http://blog.teamtreehouse.com/install-node-js-npm-mac
