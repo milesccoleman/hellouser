@@ -2,7 +2,7 @@
 ## A super simple Vue app!
 ---
 
-![alt text](https://github.com/milesccoleman/hellouser/src/assets/screenshot.png?raw=true "Screenshot of App")
+![alt text](https://github.com/milesccoleman/raw/master/hellouser/src/assets/screenshot.png?raw=true "Screenshot of App")
 
 ---
 
