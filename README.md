@@ -2,11 +2,11 @@
 ## A super simple Vue app!
 ---
 
-![alt text](https://github.com/milesccoleman/hellouser/src/assets/screenshot.png "Screenshot of App")
+![alt text](https://github.com/milesccoleman/hellouser/static/assets/screenshot.png "Screenshot of App")
 
 ---
 
-Live version of app: http://milesccoleman.com/hellouser 
+Live version of app: http://milesccoleman.com/hellouser/
 
 ---
 In order to run the app, you'll need to install `node` and `npm`. A useful tutorial exists here: http://blog.teamtreehouse.com/install-node-js-npm-mac
