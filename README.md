@@ -16,13 +16,17 @@ You will also need to install `webpack`. Tutorial here: https://webpack.js.org/g
 ---
 
 1. Clone the repository and navigate to the root directory. 
+
     `git clone https://github.com/milesccoleman/hellouser.git cd hellouser`
+    
 2. Use `npm` to install `vue`. 
+
     `npm install vue`
+    
 3. Now you can build the app to serve it via `npm`. 
+
     `npm run dev`
+    
 4. Open the URL in your browser. 
 
-
-
-  
+5. Edit `src/components/HelloWorld.vue` to adapt the app to your needs. 
